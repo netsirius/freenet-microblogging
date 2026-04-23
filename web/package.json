@@ -9,7 +9,7 @@
     "test:watch": "vitest"
   },
   "dependencies": {
-    "@freenetorg/freenet-stdlib": "^0.1.0"
+    "@freenetorg/freenet-stdlib": "file:../../freenet-stdlib/typescript"
   },
   "devDependencies": {
     "sass": "^1.87.0",
